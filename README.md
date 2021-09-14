@@ -1,3 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cappyzawa&show_icons=true&theme=dracula)
-[![](https://raw.githubusercontent.com/cappyzawa/cappyzawa/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/cappyzawa/cappyzawa/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cappyzawa/cappyzawa/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Metrics](https://metrics.lecoq.io/cappyzawa)](https://metrics.lecoq.io/about/cappyzawa)
