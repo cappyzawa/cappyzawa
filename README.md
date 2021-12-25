@@ -1,1 +1,1 @@
-[![Metrics](https://metrics.lecoq.io/cappyzawa)](https://metrics.lecoq.io/about/cappyzawa)
+![Metrics](https://metrics.lecoq.io/cappyzawa?template=classic&activity=1&notable=1&stars=1&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FTokyo)
