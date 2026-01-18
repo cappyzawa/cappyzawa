@@ -8,6 +8,6 @@
 
 <div align="center">
 
-![BANCHO](https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif)
+<img src="https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif" width="150" alt="BANCHO" />
 
 </div>
