@@ -18,11 +18,11 @@
 
 </div>
 
-## GitHub Stats
+## Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cappyzawa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Metrics](https://raw.githubusercontent.com/cappyzawa/cappyzawa/master/output/metrics.svg)
 
 </div>
 
