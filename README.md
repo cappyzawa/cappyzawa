@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cappyzawa&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cappyzawa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
