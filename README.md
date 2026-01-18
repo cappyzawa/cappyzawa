@@ -9,7 +9,7 @@
 
 </td>
 <td>
-<img src="https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif" width="60" alt="BANCHO" />
+<img src="https://media1.tenor.com/m/0h4lTxgtfCYAAAAC/bancho-todoroki-hajime.gif" width="60" alt="BANCHO" />
 </td>
 </tr>
 </table>
