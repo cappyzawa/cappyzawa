@@ -1,11 +1,18 @@
-<div>
+<div align="center">
+<table>
+<tr>
+<td>
 
 - 🇯🇵 Based in Japan
 - 💻 Software Engineer
 - 🌱 Cloud Native & Go Enthusiast
 
-<img align="right" src="https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif" width="80" alt="BANCHO" />
-
+</td>
+<td>
+<img src="https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif" width="60" alt="BANCHO" />
+</td>
+</tr>
+</table>
 </div>
 
 ## Tech Stack
