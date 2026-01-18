@@ -1,38 +1,33 @@
-# Hi there 👋 I'm Cappyzawa
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&animation=fadeIn" />
+</picture>
 
-## About Me
+<div align="center">
 
-- 🇯🇵 Based in Japan
-- 💻 Software Engineer
-- 🌱 I'm passionate about Cloud Native technologies and Go programming
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Cappyzawa;Software+Engineer+from+Japan;Cloud+Native+%26+Go+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ## Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=go,rust,ts,kubernetes,docker,terraform,gcp,aws,neovim,github&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cappyzawa&show_icons=true&theme=tokyonight)
+<div align="center">
 
-## Top Languages
+[![GitHub Streak](https://streak-stats.demolab.com?user=cappyzawa&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cappyzawa&layout=compact&theme=tokyonight)
+</div>
 
-## Recent Contributions
-
-<!-- GitHub Readme Activity Graph -->
-
-[![Cappyzawa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cappyzawa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Recent Contributed Repositories -->
-
-### Recent Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=cappyzawa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Repos" />
-
-<!-- GitHub Profile Trophy -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cappyzawa&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
+</picture>
