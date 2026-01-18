@@ -18,11 +18,9 @@
 
 </div>
 
-## Activity
-
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/cappyzawa/cappyzawa/master/output/metrics.svg)
+![BANCHO](https://media1.tenor.com/m/cBgLYUrT5ycAAAAC/bancho-hajime.gif)
 
 </div>
 
